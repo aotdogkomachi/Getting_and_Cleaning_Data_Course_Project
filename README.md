@@ -1,7 +1,7 @@
 # Getting_and_Cleaning_Data_Course_Project
 
 **〇Dataset**
-- Human Activity Recognition Using Smartphones Data Set
+- [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 **〇Files**
 - CodeBook.txt ：modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
